@@ -1,19 +1,19 @@
 # Gerador-de-Senha
 
-Gerador de Senha 🔑
-Um gerador de senhas simples e eficiente feito com HTML, CSS e JavaScript.
+Gerador de Senha 🔑<br>
+Um gerador de senhas simples e eficiente feito com HTML, CSS e JavaScript.<br><br>
 
-✨ Funcionalidades
-✔️ Gera senhas aleatórias com diferentes níveis de complexidade.
-✔️ Permite escolher o tamanho da senha.
-✔️ Botão para copiar a senha gerada com um clique.
+✨ Funcionalidades<br>
+✔️ Gera senhas aleatórias com diferentes níveis de complexidade.<br>
+✔️ Permite escolher o tamanho da senha.<br>
+✔️ Botão para copiar a senha gerada com um clique.<br><br>
 
-🚀 Tecnologias utilizadas
-HTML para a estrutura da página.
-CSS para estilização.
-JavaScript para a lógica de geração de senhas.
+🚀 Tecnologias utilizadas<br>
+HTML para a estrutura da página.<br>
+CSS para estilização.<br>
+JavaScript para a lógica de geração de senhas.<br><br>
 
-🎯 Como usar
-1️⃣ Escolha o tamanho da senha.
-2️⃣ Clique no botão "Gerar Senha".
-3️⃣ Copie e use sua senha segura!
+🎯 Como usar<br>
+1️⃣ Escolha o tamanho da senha.<br>
+2️⃣ Clique no botão "Gerar Senha".<br>
+3️⃣ Copie e use sua senha segura!<br>
